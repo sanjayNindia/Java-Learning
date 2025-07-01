@@ -27,8 +27,4 @@ public class DemoPojo {
     public double getEmpSalary() {
         return empSalary;
     }
-    
-
-
-
 }
